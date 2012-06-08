@@ -189,3 +189,4 @@ void board_init_r(gd_t *id, ulong dest_addr)
 	/* Never returns Here */
 }
 #endif
+
